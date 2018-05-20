@@ -1,0 +1,14 @@
+com/pojo/Authority.class
+com/pojo/Multa.class
+com/conf/DatabaseConfig.class
+com/dao/MultaDao.class
+com/service/MultaService.class
+com/dao/UsuarioDao.class
+com/pojo/Usuario.class
+com/pojo/AuthorityName.class
+com/service/UsuarioService.class
+com/dao/UsuarioDaoImpl.class
+com/Main.class
+com/pojo/PatenteImagen.class
+com/dao/MultaDaoImpl.class
+com/task/taskCredito.class
